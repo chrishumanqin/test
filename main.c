@@ -31,6 +31,11 @@ extern "C" {
 #endif /* End of #ifdef __cplusplus */
 
 
+void test1();
+void test2();
+void test3();
+void test4();
+void test5();
 
 
 
