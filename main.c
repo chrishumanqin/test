@@ -30,6 +30,10 @@ extern "C" {
 #endif
 #endif /* End of #ifdef __cplusplus */
 
+
+
+
+
 extern HI_VOID SAMPLE_IVE_Md(HI_VOID);
 extern void SAMPLE_SVP_NNIE_Rfcn(void);
 
